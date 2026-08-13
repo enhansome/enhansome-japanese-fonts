@@ -1,0 +1,240 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "IBM Plex sans jp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-07-30T11:29:25Z",
+            "owner": "IBM",
+            "repo": "plex",
+            "stars": 11559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Noto sans jp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-16T05:18:51Z",
+            "owner": "notofonts",
+            "repo": "noto-cjk",
+            "stars": 4008
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Morisawa BIZ UDGothic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-16T05:24:02Z",
+            "owner": "googlefonts",
+            "repo": "morisawa-biz-ud-gothic",
+            "stars": 674
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Murecho",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2021-09-30T22:12:40Z",
+            "owner": "positype",
+            "repo": "Murecho-Project",
+            "stars": 74
+          }
+        }
+      ],
+      "title": "ゴシック体"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "源ノ明朝",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-07-30T18:57:27Z",
+            "owner": "adobe-fonts",
+            "repo": "source-han-serif",
+            "stars": 9610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "しっぽり明朝",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-15T03:08:06Z",
+            "owner": "fontdasu",
+            "repo": "ShipporiMincho",
+            "stars": 107
+          }
+        }
+      ],
+      "title": "明朝体"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nerd Fonts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-08-10T11:01:16Z",
+            "owner": "ryanoasis",
+            "repo": "nerd-fonts",
+            "stars": 64101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sarasa-Gothic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-27T16:53:47Z",
+            "owner": "be5invis",
+            "repo": "Sarasa-Gothic",
+            "stars": 12635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HackGen",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-12-29T07:14:36Z",
+            "owner": "yuru7",
+            "repo": "HackGen",
+            "stars": 2417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UDEV Gothic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-23T10:22:19Z",
+            "owner": "yuru7",
+            "repo": "udev-gothic",
+            "stars": 2025
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cica",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-30T03:28:18Z",
+            "owner": "miiton",
+            "repo": "Cica",
+            "stars": 1408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PlemolJP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-10T05:28:37Z",
+            "owner": "yuru7",
+            "repo": "PlemolJP",
+            "stars": 1372
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firge",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-04-23T13:10:36Z",
+            "owner": "yuru7",
+            "repo": "Firge",
+            "stars": 298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SFMono Square",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-14T00:12:54Z",
+            "owner": "delphinus",
+            "repo": "homebrew-sfmono-square",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ricty",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-08-06T08:32:43Z",
+            "owner": "kudryavka",
+            "repo": "Ricty",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "プログラミング用カスタムフォント"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:17:26.391Z",
+    "original_repository": "mochi-sann/awesome-japanese-fonts",
+    "original_repository_sha": "ce5204074da5a8988a86e1b2ca02e70d62f4469b",
+    "enhanced_repository": "enhansome/enhansome-japanese-fonts",
+    "enhanced_repository_description": null,
+    "title": "Awesome Japanese fonts with stars"
+  }
+}
