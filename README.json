@@ -14,7 +14,7 @@
             "last_commit": "2026-07-30T11:29:25Z",
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11571
+            "stars": 11572
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2025-12-16T05:18:51Z",
             "owner": "notofonts",
             "repo": "noto-cjk",
-            "stars": 4014
+            "stars": 4016
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2024-07-30T18:57:27Z",
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9620
+            "stars": 9622
           }
         },
         {
@@ -110,7 +110,7 @@
             "last_commit": "2026-08-10T11:01:16Z",
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64279
+            "stars": 64285
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2026-06-27T16:53:47Z",
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 12654
+            "stars": 12657
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2024-12-29T07:14:36Z",
             "owner": "yuru7",
             "repo": "HackGen",
-            "stars": 2422
+            "stars": 2425
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2026-02-23T10:22:19Z",
             "owner": "yuru7",
             "repo": "udev-gothic",
-            "stars": 2027
+            "stars": 2028
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-10T05:28:37Z",
             "owner": "yuru7",
             "repo": "PlemolJP",
-            "stars": 1374
+            "stars": 1375
           }
         },
         {
@@ -230,7 +230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:51:49.529Z",
+    "last_updated": "2026-08-18T09:41:25.037Z",
     "original_repository": "mochi-sann/awesome-japanese-fonts",
     "original_repository_sha": "ce5204074da5a8988a86e1b2ca02e70d62f4469b",
     "enhanced_repository": "enhansome/enhansome-japanese-fonts",
