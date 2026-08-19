@@ -30,7 +30,7 @@
             "last_commit": "2025-12-16T05:18:51Z",
             "owner": "notofonts",
             "repo": "noto-cjk",
-            "stars": 4017
+            "stars": 4018
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2024-07-30T18:57:27Z",
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9622
+            "stars": 9623
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-06-27T16:53:47Z",
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 12660
+            "stars": 12663
           }
         },
         {
@@ -245,8 +245,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:41:47.566Z",
+    "last_updated": "2026-08-19T12:33:33.404Z",
     "original_repository": "mochi-sann/awesome-japanese-fonts",
+    "original_repository_id": 474334380,
     "original_repository_sha": "ce5204074da5a8988a86e1b2ca02e70d62f4469b",
     "enhanced_repository": "enhansome/enhansome-japanese-fonts",
     "enhanced_repository_description": null,
