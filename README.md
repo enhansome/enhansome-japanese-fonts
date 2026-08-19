@@ -1,12 +1,12 @@
 # Awesome Japanese fonts with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,162 | 🐛 104 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,587 | 🐛 102 | 📅 2026-08-18
 素晴らしい日本語フォントの一覧です
 
 ## ゴシック体
 
-* [IBM Plex sans jp](https://github.com/IBM/plex) ⭐ 11,572 | 🐛 88 | 🌐 CSS | 📅 2026-07-30
-* [Noto sans jp](https://github.com/googlefonts/noto-cjk) ⭐ 4,016 | 🐛 75 | 🌐 Python | 📅 2025-12-16
+* [IBM Plex sans jp](https://github.com/IBM/plex) ⭐ 11,575 | 🐛 88 | 🌐 CSS | 📅 2026-07-30
+* [Noto sans jp](https://github.com/googlefonts/noto-cjk) ⭐ 4,017 | 🐛 75 | 🌐 Python | 📅 2025-12-16
 * [Morisawa BIZ UDGothic](https://github.com/googlefonts/morisawa-biz-ud-gothic) ⭐ 674 | 🐛 23 | 🌐 Python | 📅 2026-06-16
 * [Murecho](https://github.com/positype/Murecho-Project) ⭐ 74 | 🐛 7 | 🌐 Makefile | 📅 2021-09-30
 * [M + fonts](https://mplus-fonts.osdn.jp/about2.html)
@@ -32,8 +32,8 @@
 
 ## プログラミング用カスタムフォント
 
-* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) ⭐ 64,285 | 🐛 18 | 🌐 CSS | 📅 2026-08-10
-* [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ⭐ 12,657 | 🐛 5 | 🌐 JavaScript | 📅 2026-06-27
+* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) ⭐ 64,302 | 🐛 18 | 🌐 CSS | 📅 2026-08-10
+* [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ⭐ 12,660 | 🐛 5 | 🌐 JavaScript | 📅 2026-06-27
 * [HackGen](https://github.com/yuru7/HackGen) ⭐ 2,425 | 🐛 5 | 🌐 Shell | 📅 2024-12-29
 * [UDEV Gothic](https://github.com/yuru7/udev-gothic) ⭐ 2,028 | 🐛 3 | 🌐 Python | 📅 2026-02-23
 * [Cica](https://github.com/miiton/Cica) ⭐ 1,407 | 🐛 18 | 🌐 Python | 📅 2026-03-30
@@ -54,4 +54,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105702631,
             "language": "CSS",
             "last_commit": "2026-07-30T11:29:25Z",
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11572
+            "stars": 11575
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36903607,
             "language": "Python",
             "last_commit": "2025-12-16T05:18:51Z",
             "owner": "notofonts",
             "repo": "noto-cjk",
-            "stars": 4016
+            "stars": 4017
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 451707403,
             "language": "Python",
             "last_commit": "2026-06-16T05:24:02Z",
             "owner": "googlefonts",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 199074119,
             "language": "Makefile",
             "last_commit": "2021-09-30T22:12:40Z",
             "owner": "positype",
@@ -63,7 +67,7 @@
       "title": "ゴシック体"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84254035,
             "language": "Shell",
             "last_commit": "2024-07-30T18:57:27Z",
             "owner": "adobe-fonts",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 275871342,
             "language": "Python",
             "last_commit": "2021-04-15T03:08:06Z",
             "owner": "fontdasu",
@@ -97,7 +103,7 @@
       "title": "明朝体"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -106,11 +112,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27574418,
             "language": "CSS",
             "last_commit": "2026-08-10T11:01:16Z",
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64285
+            "stars": 64302
           }
         },
         {
@@ -120,11 +127,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95871572,
             "language": "JavaScript",
             "last_commit": "2026-06-27T16:53:47Z",
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 12657
+            "stars": 12660
           }
         },
         {
@@ -134,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 187742770,
             "language": "Shell",
             "last_commit": "2024-12-29T07:14:36Z",
             "owner": "yuru7",
@@ -148,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 473115200,
             "language": "Python",
             "last_commit": "2026-02-23T10:22:19Z",
             "owner": "yuru7",
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30596498,
             "language": "Python",
             "last_commit": "2026-03-30T03:28:18Z",
             "owner": "miiton",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 389310324,
             "language": "Shell",
             "last_commit": "2026-08-10T05:28:37Z",
             "owner": "yuru7",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 376704320,
             "language": "Shell",
             "last_commit": "2024-04-23T13:10:36Z",
             "owner": "yuru7",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125698856,
             "language": "Python",
             "last_commit": "2025-11-14T00:12:54Z",
             "owner": "delphinus",
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3017938,
             "language": "Shell",
             "last_commit": "2023-08-06T08:32:43Z",
             "owner": "kudryavka",
@@ -230,7 +245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:41:25.037Z",
+    "last_updated": "2026-08-19T09:41:47.566Z",
     "original_repository": "mochi-sann/awesome-japanese-fonts",
     "original_repository_sha": "ce5204074da5a8988a86e1b2ca02e70d62f4469b",
     "enhanced_repository": "enhansome/enhansome-japanese-fonts",
