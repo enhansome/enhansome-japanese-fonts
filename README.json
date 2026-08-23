@@ -15,7 +15,7 @@
             "last_commit": "2026-07-30T11:29:25Z",
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11585
+            "stars": 11586
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-12-16T05:18:51Z",
             "owner": "notofonts",
             "repo": "noto-cjk",
-            "stars": 4022
+            "stars": 4024
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2024-07-30T18:57:27Z",
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9633
+            "stars": 9637
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2021-04-15T03:08:06Z",
             "owner": "fontdasu",
             "repo": "ShipporiMincho",
-            "stars": 107
+            "stars": 106
           }
         }
       ],
@@ -114,10 +114,10 @@
             "archived": false,
             "id": 27574418,
             "language": "CSS",
-            "last_commit": "2026-08-21T15:30:33Z",
+            "last_commit": "2026-08-22T10:22:17Z",
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64342
+            "stars": 64353
           }
         },
         {
@@ -129,7 +129,7 @@
             "archived": false,
             "id": 95871572,
             "language": "JavaScript",
-            "last_commit": "2026-06-27T16:53:47Z",
+            "last_commit": "2026-08-22T16:18:50Z",
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
             "stars": 12678
@@ -147,7 +147,7 @@
             "last_commit": "2024-12-29T07:14:36Z",
             "owner": "yuru7",
             "repo": "HackGen",
-            "stars": 2425
+            "stars": 2426
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-10T05:28:37Z",
             "owner": "yuru7",
             "repo": "PlemolJP",
-            "stars": 1375
+            "stars": 1376
           }
         },
         {
@@ -245,7 +245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:35:21.011Z",
+    "last_updated": "2026-08-23T09:35:27.228Z",
     "original_repository": "mochi-sann/awesome-japanese-fonts",
     "original_repository_id": 474334380,
     "original_repository_sha": "ce5204074da5a8988a86e1b2ca02e70d62f4469b",
