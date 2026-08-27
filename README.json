@@ -15,7 +15,7 @@
             "last_commit": "2026-07-30T11:29:25Z",
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11597
+            "stars": 11602
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-12-16T05:18:51Z",
             "owner": "notofonts",
             "repo": "noto-cjk",
-            "stars": 4028
+            "stars": 4030
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-22T10:22:17Z",
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64418
+            "stars": 64431
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-22T16:18:50Z",
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 12692
+            "stars": 12694
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2024-12-29T07:14:36Z",
             "owner": "yuru7",
             "repo": "HackGen",
-            "stars": 2428
+            "stars": 2429
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-10T05:28:37Z",
             "owner": "yuru7",
             "repo": "PlemolJP",
-            "stars": 1378
+            "stars": 1379
           }
         },
         {
@@ -219,7 +219,7 @@
             "archived": false,
             "id": 125698856,
             "language": "Python",
-            "last_commit": "2025-11-14T00:12:54Z",
+            "last_commit": "2026-08-27T08:33:52Z",
             "owner": "delphinus",
             "repo": "homebrew-sfmono-square",
             "stars": 242
@@ -245,9 +245,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:51:41.236Z",
-    "original_repository": "mochi-sann/awesome-japanese-fonts",
-    "original_repository_id": 474334380,
+    "last_updated": "2026-08-27T11:49:59.563Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 474334380,
+      "language": null,
+      "last_commit": "2022-04-09T13:09:39Z",
+      "owner": "mochi-sann",
+      "repo": "awesome-japanese-fonts",
+      "stars": 80
+    },
     "original_repository_sha": "ce5204074da5a8988a86e1b2ca02e70d62f4469b",
     "enhanced_repository": "enhansome/enhansome-japanese-fonts",
     "enhanced_repository_description": null,
