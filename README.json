@@ -15,7 +15,7 @@
             "last_commit": "2026-07-30T11:29:25Z",
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11602
+            "stars": 11600
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-12-16T05:18:51Z",
             "owner": "notofonts",
             "repo": "noto-cjk",
-            "stars": 4030
+            "stars": 4029
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-06-16T05:24:02Z",
             "owner": "googlefonts",
             "repo": "morisawa-biz-ud-gothic",
-            "stars": 674
+            "stars": 672
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-22T10:22:17Z",
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64431
+            "stars": 64434
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-22T16:18:50Z",
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 12694
+            "stars": 12693
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2024-12-29T07:14:36Z",
             "owner": "yuru7",
             "repo": "HackGen",
-            "stars": 2429
+            "stars": 2427
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-02-23T10:22:19Z",
             "owner": "yuru7",
             "repo": "udev-gothic",
-            "stars": 2034
+            "stars": 2031
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-03-30T03:28:18Z",
             "owner": "miiton",
             "repo": "Cica",
-            "stars": 1407
+            "stars": 1406
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-10T05:28:37Z",
             "owner": "yuru7",
             "repo": "PlemolJP",
-            "stars": 1379
+            "stars": 1378
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2024-04-23T13:10:36Z",
             "owner": "yuru7",
             "repo": "Firge",
-            "stars": 298
+            "stars": 289
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-08-27T08:33:52Z",
             "owner": "delphinus",
             "repo": "homebrew-sfmono-square",
-            "stars": 242
+            "stars": 238
           }
         },
         {
@@ -245,7 +245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:49:59.563Z",
+    "last_updated": "2026-08-27T19:47:47.846Z",
     "original_repository_info": {
       "archived": false,
       "id": 474334380,
