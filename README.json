@@ -15,8 +15,9 @@
             "last_commit": "2026-07-30T11:29:25Z",
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11600
-          }
+            "stars": 11603
+          },
+          "first_seen": "2026-08-28T20:48:51.342Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2025-12-16T05:18:51Z",
             "owner": "notofonts",
             "repo": "noto-cjk",
-            "stars": 4029
-          }
+            "stars": 4030
+          },
+          "first_seen": "2026-08-28T20:48:51.342Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "googlefonts",
             "repo": "morisawa-biz-ud-gothic",
             "stars": 672
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.342Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "positype",
             "repo": "Murecho-Project",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.342Z"
         }
       ],
       "title": "ゴシック体"
@@ -81,8 +85,9 @@
             "last_commit": "2024-07-30T18:57:27Z",
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9646
-          }
+            "stars": 9653
+          },
+          "first_seen": "2026-08-28T20:48:51.342Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "fontdasu",
             "repo": "ShipporiMincho",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.342Z"
         }
       ],
       "title": "明朝体"
@@ -117,8 +123,9 @@
             "last_commit": "2026-08-22T10:22:17Z",
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64434
-          }
+            "stars": 64445
+          },
+          "first_seen": "2026-08-28T20:48:51.342Z"
         },
         {
           "node_type": "item",
@@ -132,8 +139,9 @@
             "last_commit": "2026-08-22T16:18:50Z",
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 12693
-          }
+            "stars": 12695
+          },
+          "first_seen": "2026-08-28T20:48:51.342Z"
         },
         {
           "node_type": "item",
@@ -147,8 +155,9 @@
             "last_commit": "2024-12-29T07:14:36Z",
             "owner": "yuru7",
             "repo": "HackGen",
-            "stars": 2427
-          }
+            "stars": 2428
+          },
+          "first_seen": "2026-08-28T20:48:51.342Z"
         },
         {
           "node_type": "item",
@@ -162,8 +171,9 @@
             "last_commit": "2026-02-23T10:22:19Z",
             "owner": "yuru7",
             "repo": "udev-gothic",
-            "stars": 2031
-          }
+            "stars": 2032
+          },
+          "first_seen": "2026-08-28T20:48:51.342Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "miiton",
             "repo": "Cica",
             "stars": 1406
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.342Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "yuru7",
             "repo": "PlemolJP",
             "stars": 1378
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.342Z"
         },
         {
           "node_type": "item",
@@ -207,8 +219,9 @@
             "last_commit": "2024-04-23T13:10:36Z",
             "owner": "yuru7",
             "repo": "Firge",
-            "stars": 289
-          }
+            "stars": 290
+          },
+          "first_seen": "2026-08-28T20:48:51.342Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "delphinus",
             "repo": "homebrew-sfmono-square",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.342Z"
         },
         {
           "node_type": "item",
@@ -238,14 +252,15 @@
             "owner": "kudryavka",
             "repo": "Ricty",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.342Z"
         }
       ],
       "title": "プログラミング用カスタムフォント"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:47:47.846Z",
+    "last_updated": "2026-08-28T20:48:51.342Z",
     "original_repository_info": {
       "archived": false,
       "id": 474334380,
