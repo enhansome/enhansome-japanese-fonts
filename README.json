@@ -44,7 +44,7 @@
             "open_issues": 75,
             "owner": "notofonts",
             "repo": "noto-cjk",
-            "stars": 4030,
+            "stars": 4032,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -171,7 +171,7 @@
             "open_issues": 20,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64447,
+            "stars": 64455,
             "topics": [
               "font",
               "font-awesome",
@@ -206,7 +206,7 @@
             "open_issues": 6,
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 12695,
+            "stars": 12697,
             "topics": [
               "font",
               "typeface"
@@ -342,7 +342,7 @@
             "id": 125698856,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-27T08:33:52Z",
+            "last_commit": "2026-08-29T09:50:07Z",
             "open_issues": 3,
             "owner": "delphinus",
             "repo": "homebrew-sfmono-square",
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:00:07.772Z",
+    "last_updated": "2026-08-29T14:23:34.071Z",
     "original_repository_info": {
       "archived": false,
       "description": "素晴らしい日本語フォントの一覧です",
