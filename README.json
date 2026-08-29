@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The package of IBM’s typeface, IBM Plex.",
+            "homepage": null,
             "id": 105702631,
             "language": "CSS",
+            "license": "OFL-1.1",
             "last_commit": "2026-07-30T11:29:25Z",
+            "open_issues": 80,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11603
+            "stars": 11605,
+            "topics": [
+              "design",
+              "font",
+              "typeface"
+            ]
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
         },
@@ -26,12 +35,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Noto CJK fonts",
+            "homepage": "http://www.google.com/get/noto/help/cjk",
             "id": 36903607,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-16T05:18:51Z",
+            "open_issues": 75,
             "owner": "notofonts",
             "repo": "noto-cjk",
-            "stars": 4030
+            "stars": 4030,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
         },
@@ -42,12 +56,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 451707403,
             "language": "Python",
+            "license": "OFL-1.1",
             "last_commit": "2026-06-16T05:24:02Z",
+            "open_issues": 23,
             "owner": "googlefonts",
             "repo": "morisawa-biz-ud-gothic",
-            "stars": 672
+            "stars": 672,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
         },
@@ -58,12 +77,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 199074119,
             "language": "Makefile",
+            "license": "OFL-1.1",
             "last_commit": "2021-09-30T22:12:40Z",
+            "open_issues": 7,
             "owner": "positype",
             "repo": "Murecho-Project",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
         }
@@ -80,12 +104,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조",
+            "homepage": "https://adobe.ly/SourceHanSerif",
             "id": 84254035,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-30T18:57:27Z",
+            "open_issues": 74,
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9653
+            "stars": 9654,
+            "topics": [
+              "cff",
+              "cff2",
+              "cjk",
+              "font",
+              "opentype",
+              "otc",
+              "otf",
+              "source-han",
+              "variable-fonts"
+            ]
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
         },
@@ -96,12 +135,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 275871342,
             "language": "Python",
+            "license": "OFL-1.1",
             "last_commit": "2021-04-15T03:08:06Z",
+            "open_issues": 0,
             "owner": "fontdasu",
             "repo": "ShipporiMincho",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
         }
@@ -118,12 +162,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more",
+            "homepage": "https://NerdFonts.com",
             "id": 27574418,
             "language": "CSS",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-22T10:22:17Z",
+            "open_issues": 20,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64445
+            "stars": 64447,
+            "topics": [
+              "font",
+              "font-awesome",
+              "fonts",
+              "hacktoberfest",
+              "icon-font",
+              "iconic-fonts",
+              "octicons",
+              "patched-fonts",
+              "patcher",
+              "powerline",
+              "python",
+              "shell",
+              "statusline"
+            ]
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
         },
@@ -134,12 +197,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕",
+            "homepage": null,
             "id": 95871572,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-22T16:18:50Z",
+            "open_issues": 6,
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 12695
+            "stars": 12695,
+            "topics": [
+              "font",
+              "typeface"
+            ]
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
         },
@@ -150,12 +221,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)",
+            "homepage": "https://qiita.com/tawara_/items/374f3ca0a386fab8b305",
             "id": 187742770,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-29T07:14:36Z",
+            "open_issues": 5,
             "owner": "yuru7",
             "repo": "HackGen",
-            "stars": 2428
+            "stars": 2428,
+            "topics": [
+              "font",
+              "hackgen"
+            ]
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
         },
@@ -166,12 +245,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UDEV Gothic は、ユニバーサルデザインフォントのBIZ UDゴシックと、 開発者向けフォントの JetBrains Mono を合成した、プログラミング向けフォントです。",
+            "homepage": null,
             "id": 473115200,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-23T10:22:19Z",
+            "open_issues": 2,
             "owner": "yuru7",
             "repo": "udev-gothic",
-            "stars": 2032
+            "stars": 2032,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
         },
@@ -182,12 +266,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "プログラミング用日本語等幅フォント Cica(シカ)",
+            "homepage": null,
             "id": 30596498,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-30T03:28:18Z",
+            "open_issues": 18,
             "owner": "miiton",
             "repo": "Cica",
-            "stars": 1406
+            "stars": 1406,
+            "topics": [
+              "font",
+              "japanese",
+              "macos",
+              "programming-font",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
         },
@@ -198,12 +293,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)",
+            "homepage": null,
             "id": 389310324,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-10T05:28:37Z",
+            "open_issues": 1,
             "owner": "yuru7",
             "repo": "PlemolJP",
-            "stars": 1378
+            "stars": 1378,
+            "topics": [
+              "font"
+            ]
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
         },
@@ -214,12 +316,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fira Mono と源真ゴシックを合成したプログラミングフォント Firge (ファージ)",
+            "homepage": null,
             "id": 376704320,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-23T13:10:36Z",
+            "open_issues": 4,
             "owner": "yuru7",
             "repo": "Firge",
-            "stars": 290
+            "stars": 290,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
         },
@@ -230,12 +337,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SFMono Square - patched font: SFMono + Migu 1M + Nerd Fonts",
+            "homepage": null,
             "id": 125698856,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-27T08:33:52Z",
+            "open_issues": 3,
             "owner": "delphinus",
             "repo": "homebrew-sfmono-square",
-            "stars": 238
+            "stars": 238,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
         },
@@ -246,12 +358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ricty --- fonts for programming (unofficial copy)",
+            "homepage": "https://rictyfonts.github.io/",
             "id": 3017938,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-08-06T08:32:43Z",
+            "open_issues": 0,
             "owner": "kudryavka",
             "repo": "Ricty",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
         }
@@ -260,15 +377,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:48:51.342Z",
+    "last_updated": "2026-08-29T05:00:07.772Z",
     "original_repository_info": {
       "archived": false,
+      "description": "素晴らしい日本語フォントの一覧です",
+      "homepage": null,
       "id": 474334380,
       "language": null,
+      "license": "MIT",
       "last_commit": "2022-04-09T13:09:39Z",
+      "open_issues": 0,
       "owner": "mochi-sann",
       "repo": "awesome-japanese-fonts",
-      "stars": 80
+      "stars": 80,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "font",
+        "fonts",
+        "typeface"
+      ]
     },
     "original_repository_sha": "ce5204074da5a8988a86e1b2ca02e70d62f4469b",
     "enhanced_repository": "enhansome/enhansome-japanese-fonts",
