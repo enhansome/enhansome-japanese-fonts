@@ -19,7 +19,7 @@
             "open_issues": 80,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11609,
+            "stars": 11613,
             "topics": [
               "design",
               "font",
@@ -44,7 +44,7 @@
             "open_issues": 75,
             "owner": "notofonts",
             "repo": "noto-cjk",
-            "stars": 4033,
+            "stars": 4031,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -144,7 +144,7 @@
             "open_issues": 0,
             "owner": "fontdasu",
             "repo": "ShipporiMincho",
-            "stars": 108,
+            "stars": 109,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -171,7 +171,7 @@
             "open_issues": 20,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64468,
+            "stars": 64471,
             "topics": [
               "font",
               "font-awesome",
@@ -206,7 +206,7 @@
             "open_issues": 6,
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 12700,
+            "stars": 12708,
             "topics": [
               "font",
               "typeface"
@@ -254,7 +254,7 @@
             "open_issues": 2,
             "owner": "yuru7",
             "repo": "udev-gothic",
-            "stars": 2033,
+            "stars": 2034,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:23:09.628Z",
+    "last_updated": "2026-08-31T17:00:56.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "素晴らしい日本語フォントの一覧です",
