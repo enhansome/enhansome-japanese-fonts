@@ -19,7 +19,7 @@
             "open_issues": 80,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11613,
+            "stars": 11617,
             "topics": [
               "design",
               "font",
@@ -44,7 +44,7 @@
             "open_issues": 75,
             "owner": "notofonts",
             "repo": "noto-cjk",
-            "stars": 4035,
+            "stars": 4036,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -167,11 +167,11 @@
             "id": 27574418,
             "language": "CSS",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-22T10:22:17Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-02T12:05:05Z",
+            "open_issues": 22,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64483,
+            "stars": 64493,
             "topics": [
               "font",
               "font-awesome",
@@ -206,7 +206,7 @@
             "open_issues": 6,
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 12709,
+            "stars": 12713,
             "topics": [
               "font",
               "typeface"
@@ -230,7 +230,7 @@
             "open_issues": 5,
             "owner": "yuru7",
             "repo": "HackGen",
-            "stars": 2428,
+            "stars": 2427,
             "topics": [
               "font",
               "hackgen"
@@ -254,7 +254,7 @@
             "open_issues": 2,
             "owner": "yuru7",
             "repo": "udev-gothic",
-            "stars": 2034,
+            "stars": 2033,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -346,7 +346,7 @@
             "open_issues": 3,
             "owner": "delphinus",
             "repo": "homebrew-sfmono-square",
-            "stars": 238,
+            "stars": 237,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T14:05:48.794Z",
+    "last_updated": "2026-09-02T13:32:07.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "素晴らしい日本語フォントの一覧です",
