@@ -16,10 +16,10 @@
             "language": "CSS",
             "license": "OFL-1.1",
             "last_commit": "2026-09-15T12:27:05Z",
-            "open_issues": 82,
+            "open_issues": 83,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11644,
+            "stars": 11643,
             "topics": [
               "design",
               "font",
@@ -44,7 +44,7 @@
             "open_issues": 76,
             "owner": "notofonts",
             "repo": "noto-cjk",
-            "stars": 4058,
+            "stars": 4063,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -113,7 +113,7 @@
             "open_issues": 74,
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9690,
+            "stars": 9694,
             "topics": [
               "cff",
               "cff2",
@@ -171,7 +171,7 @@
             "open_issues": 21,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64642,
+            "stars": 64656,
             "topics": [
               "font",
               "font-awesome",
@@ -206,7 +206,7 @@
             "open_issues": 7,
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 12777,
+            "stars": 12781,
             "topics": [
               "font",
               "typeface"
@@ -254,7 +254,7 @@
             "open_issues": 2,
             "owner": "yuru7",
             "repo": "udev-gothic",
-            "stars": 2037,
+            "stars": 2038,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T14:15:09.158Z",
+    "last_updated": "2026-09-18T13:33:00.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "素晴らしい日本語フォントの一覧です",
