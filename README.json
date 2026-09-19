@@ -19,7 +19,7 @@
             "open_issues": 83,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11643,
+            "stars": 11647,
             "topics": [
               "design",
               "font",
@@ -41,7 +41,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-12-16T05:18:51Z",
-            "open_issues": 76,
+            "open_issues": 77,
             "owner": "notofonts",
             "repo": "noto-cjk",
             "stars": 4063,
@@ -113,7 +113,7 @@
             "open_issues": 74,
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9694,
+            "stars": 9695,
             "topics": [
               "cff",
               "cff2",
@@ -171,7 +171,7 @@
             "open_issues": 21,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64656,
+            "stars": 64665,
             "topics": [
               "font",
               "font-awesome",
@@ -206,7 +206,7 @@
             "open_issues": 7,
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 12781,
+            "stars": 12789,
             "topics": [
               "font",
               "typeface"
@@ -254,7 +254,7 @@
             "open_issues": 2,
             "owner": "yuru7",
             "repo": "udev-gothic",
-            "stars": 2038,
+            "stars": 2039,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -302,7 +302,7 @@
             "open_issues": 1,
             "owner": "yuru7",
             "repo": "PlemolJP",
-            "stars": 1389,
+            "stars": 1390,
             "topics": [
               "font"
             ]
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T13:33:00.403Z",
+    "last_updated": "2026-09-19T13:02:57.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "素晴らしい日本語フォントの一覧です",
