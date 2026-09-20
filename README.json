@@ -19,7 +19,7 @@
             "open_issues": 83,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11647,
+            "stars": 11650,
             "topics": [
               "design",
               "font",
@@ -44,7 +44,7 @@
             "open_issues": 77,
             "owner": "notofonts",
             "repo": "noto-cjk",
-            "stars": 4063,
+            "stars": 4064,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -62,7 +62,7 @@
             "language": "Python",
             "license": "OFL-1.1",
             "last_commit": "2026-06-16T05:24:02Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "googlefonts",
             "repo": "morisawa-biz-ud-gothic",
             "stars": 672,
@@ -113,7 +113,7 @@
             "open_issues": 74,
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9695,
+            "stars": 9697,
             "topics": [
               "cff",
               "cff2",
@@ -168,10 +168,10 @@
             "language": "CSS",
             "license": "NOASSERTION",
             "last_commit": "2026-09-05T16:32:47Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64665,
+            "stars": 64677,
             "topics": [
               "font",
               "font-awesome",
@@ -206,7 +206,7 @@
             "open_issues": 7,
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 12789,
+            "stars": 12793,
             "topics": [
               "font",
               "typeface"
@@ -230,7 +230,7 @@
             "open_issues": 5,
             "owner": "yuru7",
             "repo": "HackGen",
-            "stars": 2436,
+            "stars": 2437,
             "topics": [
               "font",
               "hackgen"
@@ -302,7 +302,7 @@
             "open_issues": 1,
             "owner": "yuru7",
             "repo": "PlemolJP",
-            "stars": 1390,
+            "stars": 1391,
             "topics": [
               "font"
             ]
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T13:02:57.119Z",
+    "last_updated": "2026-09-20T13:32:58.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "素晴らしい日本語フォントの一覧です",
