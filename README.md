@@ -1,11 +1,11 @@
 # Awesome Japanese fonts with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,740 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,255 | 🐛 107 | 📅 2026-09-02
 素晴らしい日本語フォントの一覧です
 
 ## ゴシック体
 
-* [IBM Plex sans jp](https://github.com/IBM/plex) ⭐ 11,654 | 🐛 84 | 🌐 CSS | 📅 2026-09-22
+* [IBM Plex sans jp](https://github.com/IBM/plex) ⭐ 11,656 | 🐛 84 | 🌐 CSS | 📅 2026-09-22
 * [Noto sans jp](https://github.com/googlefonts/noto-cjk) ⭐ 4,069 | 🐛 76 | 🌐 Python | 📅 2025-12-16
 * [Morisawa BIZ UDGothic](https://github.com/googlefonts/morisawa-biz-ud-gothic) ⭐ 673 | 🐛 24 | 🌐 Python | 📅 2026-06-16
 * [Murecho](https://github.com/positype/Murecho-Project) ⭐ 74 | 🐛 7 | 🌐 Makefile | 📅 2021-09-30
@@ -25,15 +25,15 @@
 
 ## 明朝体
 
-* [源ノ明朝](https://github.com/adobe-fonts/source-han-serif/blob/master/README-JP.md#%E6%BA%90%E3%83%8E%E6%98%8E%E6%9C%9D%E3%81%92%E3%82%93%E3%81%AE%E3%81%BF%E3%82%93%E3%81%A1%E3%82%87%E3%81%86) ⭐ 9,712 | 🐛 74 | 🌐 Shell | 📅 2024-07-30
+* [源ノ明朝](https://github.com/adobe-fonts/source-han-serif/blob/master/README-JP.md#%E6%BA%90%E3%83%8E%E6%98%8E%E6%9C%9D%E3%81%92%E3%82%93%E3%81%AE%E3%81%BF%E3%82%93%E3%81%A1%E3%82%87%E3%81%86) ⭐ 9,714 | 🐛 74 | 🌐 Shell | 📅 2024-07-30
 * [しっぽり明朝](https://github.com/fontdasu/ShipporiMincho) ⭐ 109 | 🐛 0 | 🌐 Python | 📅 2021-04-15
 * [さわらび明朝](https://sawarabi-fonts.osdn.jp)
 * [Zen Antique Soft](https://fonts.google.com/specimen/Zen+Antique+Soft?subset=japanese#standard-styles)
 
 ## プログラミング用カスタムフォント
 
-* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) ⭐ 64,725 | 🐛 23 | 🌐 CSS | 📅 2026-09-05
-* [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ⭐ 12,804 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-22
+* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) ⭐ 64,735 | 🐛 24 | 🌐 CSS | 📅 2026-09-05
+* [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ⭐ 12,806 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-22
 * [HackGen](https://github.com/yuru7/HackGen) ⭐ 2,443 | 🐛 5 | 🌐 Shell | 📅 2024-12-29
 * [UDEV Gothic](https://github.com/yuru7/udev-gothic) ⭐ 2,047 | 🐛 2 | 🌐 Python | 📅 2026-02-23
 * [Cica](https://github.com/miiton/Cica) ⭐ 1,406 | 🐛 18 | 🌐 Python | 📅 2026-03-30
@@ -54,4 +54,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
