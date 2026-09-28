@@ -44,7 +44,7 @@
             "open_issues": 76,
             "owner": "notofonts",
             "repo": "noto-cjk",
-            "stars": 4072,
+            "stars": 4076,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -113,7 +113,7 @@
             "open_issues": 74,
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9719,
+            "stars": 9728,
             "topics": [
               "cff",
               "cff2",
@@ -171,7 +171,7 @@
             "open_issues": 24,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64746,
+            "stars": 64752,
             "topics": [
               "font",
               "font-awesome",
@@ -206,7 +206,7 @@
             "open_issues": 7,
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 12811,
+            "stars": 12817,
             "topics": [
               "font",
               "typeface"
@@ -230,7 +230,7 @@
             "open_issues": 5,
             "owner": "yuru7",
             "repo": "HackGen",
-            "stars": 2443,
+            "stars": 2444,
             "topics": [
               "font",
               "hackgen"
@@ -254,7 +254,7 @@
             "open_issues": 2,
             "owner": "yuru7",
             "repo": "udev-gothic",
-            "stars": 2048,
+            "stars": 2049,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T14:39:37.998Z",
+    "last_updated": "2026-09-28T17:35:47.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "素晴らしい日本語フォントの一覧です",
