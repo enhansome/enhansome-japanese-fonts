@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "IBM Plex sans jp",
-          "description": null,
+          "description": "IBM/plex",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,11 +15,11 @@
             "id": 105702631,
             "language": "CSS",
             "license": "OFL-1.1",
-            "last_commit": "2026-09-22T11:32:26Z",
-            "open_issues": 84,
+            "last_commit": "2026-10-02T18:35:02Z",
+            "open_issues": 85,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11669,
+            "stars": 11670,
             "topics": [
               "design",
               "font",
@@ -31,7 +31,7 @@
         {
           "node_type": "item",
           "title": "Noto sans jp",
-          "description": null,
+          "description": "notofonts/noto-cjk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -52,7 +52,7 @@
         {
           "node_type": "item",
           "title": "Morisawa BIZ UDGothic",
-          "description": null,
+          "description": "googlefonts/morisawa-biz-ud-gothic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -73,7 +73,7 @@
         {
           "node_type": "item",
           "title": "Murecho",
-          "description": null,
+          "description": "positype/Murecho-Project",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -100,7 +100,7 @@
         {
           "node_type": "item",
           "title": "源ノ明朝",
-          "description": null,
+          "description": "adobe-fonts/source-han-serif",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -131,7 +131,7 @@
         {
           "node_type": "item",
           "title": "しっぽり明朝",
-          "description": null,
+          "description": "fontdasu/ShipporiMincho",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -158,7 +158,7 @@
         {
           "node_type": "item",
           "title": "Nerd Fonts",
-          "description": null,
+          "description": "ryanoasis/nerd-fonts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -171,7 +171,7 @@
             "open_issues": 27,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64790,
+            "stars": 64796,
             "topics": [
               "font",
               "font-awesome",
@@ -193,7 +193,7 @@
         {
           "node_type": "item",
           "title": "Sarasa-Gothic",
-          "description": null,
+          "description": "be5invis/Sarasa-Gothic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -203,10 +203,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-26T14:49:59Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 12828,
+            "stars": 12830,
             "topics": [
               "font",
               "typeface"
@@ -217,7 +217,7 @@
         {
           "node_type": "item",
           "title": "HackGen",
-          "description": null,
+          "description": "yuru7/HackGen",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -241,7 +241,7 @@
         {
           "node_type": "item",
           "title": "UDEV Gothic",
-          "description": null,
+          "description": "yuru7/udev-gothic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -254,7 +254,7 @@
             "open_issues": 2,
             "owner": "yuru7",
             "repo": "udev-gothic",
-            "stars": 2051,
+            "stars": 2050,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -262,7 +262,7 @@
         {
           "node_type": "item",
           "title": "Cica",
-          "description": null,
+          "description": "miiton/Cica",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -289,7 +289,7 @@
         {
           "node_type": "item",
           "title": "PlemolJP",
-          "description": null,
+          "description": "yuru7/PlemolJP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -312,7 +312,7 @@
         {
           "node_type": "item",
           "title": "Firge",
-          "description": null,
+          "description": "yuru7/Firge",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -333,7 +333,7 @@
         {
           "node_type": "item",
           "title": "SFMono Square",
-          "description": null,
+          "description": "delphinus/homebrew-sfmono-square",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -354,7 +354,7 @@
         {
           "node_type": "item",
           "title": "Ricty",
-          "description": null,
+          "description": "kudryavka/Ricty",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:42:03.293Z",
+    "last_updated": "2026-10-03T04:50:34.201Z",
     "original_repository_info": {
       "archived": false,
       "description": "素晴らしい日本語フォントの一覧です",

@@ -1,11 +1,11 @@
 # Awesome Japanese fonts with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,586 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02
 素晴らしい日本語フォントの一覧です
 
 ## ゴシック体
 
-* [IBM Plex sans jp](https://github.com/IBM/plex) ⭐ 11,669 | 🐛 84 | 🌐 CSS | 📅 2026-09-22
+* [IBM Plex sans jp](https://github.com/IBM/plex) ⭐ 11,670 | 🐛 85 | 🌐 CSS | 📅 2026-10-02
 * [Noto sans jp](https://github.com/googlefonts/noto-cjk) ⭐ 4,084 | 🐛 75 | 🌐 Python | 📅 2025-12-16
 * [Morisawa BIZ UDGothic](https://github.com/googlefonts/morisawa-biz-ud-gothic) ⭐ 674 | 🐛 24 | 🌐 Python | 📅 2026-06-16
 * [Murecho](https://github.com/positype/Murecho-Project) ⭐ 74 | 🐛 7 | 🌐 Makefile | 📅 2021-09-30
@@ -32,10 +32,10 @@
 
 ## プログラミング用カスタムフォント
 
-* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) ⭐ 64,790 | 🐛 27 | 🌐 CSS | 📅 2026-09-30
-* [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ⭐ 12,828 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-26
+* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) ⭐ 64,796 | 🐛 27 | 🌐 CSS | 📅 2026-09-30
+* [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ⭐ 12,830 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-26
 * [HackGen](https://github.com/yuru7/HackGen) ⭐ 2,445 | 🐛 5 | 🌐 Shell | 📅 2024-12-29
-* [UDEV Gothic](https://github.com/yuru7/udev-gothic) ⭐ 2,051 | 🐛 2 | 🌐 Python | 📅 2026-02-23
+* [UDEV Gothic](https://github.com/yuru7/udev-gothic) ⭐ 2,050 | 🐛 2 | 🌐 Python | 📅 2026-02-23
 * [Cica](https://github.com/miiton/Cica) ⭐ 1,406 | 🐛 18 | 🌐 Python | 📅 2026-03-30
 * [PlemolJP](https://github.com/yuru7/PlemolJP) ⭐ 1,392 | 🐛 1 | 🌐 Shell | 📅 2026-08-10
 * [Firge](https://github.com/yuru7/Firge) ⭐ 294 | 🐛 5 | 🌐 Shell | 📅 2024-04-23
@@ -54,4 +54,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
