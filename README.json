@@ -19,7 +19,7 @@
             "open_issues": 85,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11670,
+            "stars": 11669,
             "topics": [
               "design",
               "font",
@@ -113,7 +113,7 @@
             "open_issues": 74,
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9734,
+            "stars": 9733,
             "topics": [
               "cff",
               "cff2",
@@ -171,7 +171,7 @@
             "open_issues": 27,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64796,
+            "stars": 64801,
             "topics": [
               "font",
               "font-awesome",
@@ -254,7 +254,7 @@
             "open_issues": 2,
             "owner": "yuru7",
             "repo": "udev-gothic",
-            "stars": 2050,
+            "stars": 2051,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -302,7 +302,7 @@
             "open_issues": 1,
             "owner": "yuru7",
             "repo": "PlemolJP",
-            "stars": 1392,
+            "stars": 1393,
             "topics": [
               "font"
             ]
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:50:34.201Z",
+    "last_updated": "2026-10-03T14:16:03.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "素晴らしい日本語フォントの一覧です",
