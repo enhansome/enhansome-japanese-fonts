@@ -19,7 +19,7 @@
             "open_issues": 86,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11685,
+            "stars": 11686,
             "topics": [
               "design",
               "font",
@@ -44,7 +44,7 @@
             "open_issues": 76,
             "owner": "notofonts",
             "repo": "noto-cjk",
-            "stars": 4090,
+            "stars": 4091,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -171,7 +171,7 @@
             "open_issues": 28,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64861,
+            "stars": 64867,
             "topics": [
               "font",
               "font-awesome",
@@ -206,7 +206,7 @@
             "open_issues": 8,
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 12856,
+            "stars": 12863,
             "topics": [
               "font",
               "typeface"
@@ -230,7 +230,7 @@
             "open_issues": 5,
             "owner": "yuru7",
             "repo": "HackGen",
-            "stars": 2450,
+            "stars": 2449,
             "topics": [
               "font",
               "hackgen"
@@ -254,7 +254,7 @@
             "open_issues": 2,
             "owner": "yuru7",
             "repo": "udev-gothic",
-            "stars": 2052,
+            "stars": 2054,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -302,7 +302,7 @@
             "open_issues": 2,
             "owner": "yuru7",
             "repo": "PlemolJP",
-            "stars": 1395,
+            "stars": 1396,
             "topics": [
               "font"
             ]
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:13:28.253Z",
+    "last_updated": "2026-10-11T15:33:20.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "素晴らしい日本語フォントの一覧です",
