@@ -15,11 +15,11 @@
             "id": 105702631,
             "language": "CSS",
             "license": "OFL-1.1",
-            "last_commit": "2026-10-14T18:54:36Z",
+            "last_commit": "2026-10-16T13:45:32Z",
             "open_issues": 85,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11692,
+            "stars": 11694,
             "topics": [
               "design",
               "font",
@@ -41,7 +41,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-12-16T05:18:51Z",
-            "open_issues": 76,
+            "open_issues": 77,
             "owner": "notofonts",
             "repo": "noto-cjk",
             "stars": 4098,
@@ -113,7 +113,7 @@
             "open_issues": 74,
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9766,
+            "stars": 9772,
             "topics": [
               "cff",
               "cff2",
@@ -206,7 +206,7 @@
             "open_issues": 8,
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 12878,
+            "stars": 12881,
             "topics": [
               "font",
               "typeface"
@@ -302,7 +302,7 @@
             "open_issues": 2,
             "owner": "yuru7",
             "repo": "PlemolJP",
-            "stars": 1397,
+            "stars": 1396,
             "topics": [
               "font"
             ]
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T14:06:03.317Z",
+    "last_updated": "2026-10-16T13:53:43.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "素晴らしい日本語フォントの一覧です",
