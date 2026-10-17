@@ -19,7 +19,7 @@
             "open_issues": 85,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11694,
+            "stars": 11699,
             "topics": [
               "design",
               "font",
@@ -44,7 +44,7 @@
             "open_issues": 77,
             "owner": "notofonts",
             "repo": "noto-cjk",
-            "stars": 4098,
+            "stars": 4100,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -113,7 +113,7 @@
             "open_issues": 74,
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9772,
+            "stars": 9773,
             "topics": [
               "cff",
               "cff2",
@@ -171,7 +171,7 @@
             "open_issues": 27,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64898,
+            "stars": 64901,
             "topics": [
               "font",
               "font-awesome",
@@ -206,7 +206,7 @@
             "open_issues": 8,
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 12881,
+            "stars": 12886,
             "topics": [
               "font",
               "typeface"
@@ -230,7 +230,7 @@
             "open_issues": 5,
             "owner": "yuru7",
             "repo": "HackGen",
-            "stars": 2451,
+            "stars": 2450,
             "topics": [
               "font",
               "hackgen"
@@ -254,7 +254,7 @@
             "open_issues": 2,
             "owner": "yuru7",
             "repo": "udev-gothic",
-            "stars": 2058,
+            "stars": 2056,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -302,7 +302,7 @@
             "open_issues": 2,
             "owner": "yuru7",
             "repo": "PlemolJP",
-            "stars": 1396,
+            "stars": 1397,
             "topics": [
               "font"
             ]
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T13:53:43.951Z",
+    "last_updated": "2026-10-17T12:53:48.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "素晴らしい日本語フォントの一覧です",
