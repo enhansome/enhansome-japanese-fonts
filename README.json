@@ -19,7 +19,7 @@
             "open_issues": 84,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11728,
+            "stars": 11731,
             "topics": [
               "design",
               "font",
@@ -44,7 +44,7 @@
             "open_issues": 77,
             "owner": "notofonts",
             "repo": "noto-cjk",
-            "stars": 4123,
+            "stars": 4127,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -113,7 +113,7 @@
             "open_issues": 74,
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9797,
+            "stars": 9804,
             "topics": [
               "cff",
               "cff2",
@@ -171,7 +171,7 @@
             "open_issues": 31,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 65027,
+            "stars": 65052,
             "topics": [
               "font",
               "font-awesome",
@@ -206,7 +206,7 @@
             "open_issues": 8,
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 12934,
+            "stars": 12938,
             "topics": [
               "font",
               "typeface"
@@ -254,7 +254,7 @@
             "open_issues": 2,
             "owner": "yuru7",
             "repo": "udev-gothic",
-            "stars": 2061,
+            "stars": 2063,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -275,7 +275,7 @@
             "open_issues": 18,
             "owner": "miiton",
             "repo": "Cica",
-            "stars": 1407,
+            "stars": 1408,
             "topics": [
               "font",
               "japanese",
@@ -302,7 +302,7 @@
             "open_issues": 2,
             "owner": "yuru7",
             "repo": "PlemolJP",
-            "stars": 1400,
+            "stars": 1401,
             "topics": [
               "font"
             ]
@@ -325,7 +325,7 @@
             "open_issues": 5,
             "owner": "yuru7",
             "repo": "Firge",
-            "stars": 295,
+            "stars": 296,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -346,7 +346,7 @@
             "open_issues": 2,
             "owner": "delphinus",
             "repo": "homebrew-sfmono-square",
-            "stars": 244,
+            "stars": 245,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T15:17:02.674Z",
+    "last_updated": "2026-10-28T15:54:54.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "素晴らしい日本語フォントの一覧です",
