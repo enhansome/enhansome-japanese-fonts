@@ -15,11 +15,11 @@
             "id": 105702631,
             "language": "CSS",
             "license": "OFL-1.1",
-            "last_commit": "2026-10-16T13:45:32Z",
-            "open_issues": 85,
+            "last_commit": "2026-11-03T12:20:44Z",
+            "open_issues": 86,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11739,
+            "stars": 11744,
             "topics": [
               "design",
               "font",
@@ -61,7 +61,7 @@
             "id": 451707403,
             "language": "Python",
             "license": "OFL-1.1",
-            "last_commit": "2026-06-16T05:24:02Z",
+            "last_commit": "2026-11-03T00:58:31Z",
             "open_issues": 24,
             "owner": "googlefonts",
             "repo": "morisawa-biz-ud-gothic",
@@ -113,7 +113,7 @@
             "open_issues": 74,
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9817,
+            "stars": 9818,
             "topics": [
               "cff",
               "cff2",
@@ -144,7 +144,7 @@
             "open_issues": 0,
             "owner": "fontdasu",
             "repo": "ShipporiMincho",
-            "stars": 109,
+            "stars": 110,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -171,7 +171,7 @@
             "open_issues": 32,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 65108,
+            "stars": 65120,
             "topics": [
               "font",
               "font-awesome",
@@ -206,7 +206,7 @@
             "open_issues": 8,
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 12958,
+            "stars": 12963,
             "topics": [
               "font",
               "typeface"
@@ -254,7 +254,7 @@
             "open_issues": 2,
             "owner": "yuru7",
             "repo": "udev-gothic",
-            "stars": 2063,
+            "stars": 2064,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -275,7 +275,7 @@
             "open_issues": 18,
             "owner": "miiton",
             "repo": "Cica",
-            "stars": 1409,
+            "stars": 1410,
             "topics": [
               "font",
               "japanese",
@@ -302,7 +302,7 @@
             "open_issues": 2,
             "owner": "yuru7",
             "repo": "PlemolJP",
-            "stars": 1402,
+            "stars": 1404,
             "topics": [
               "font"
             ]
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T19:24:45.055Z",
+    "last_updated": "2026-11-03T16:57:53.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "素晴らしい日本語フォントの一覧です",
