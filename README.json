@@ -16,10 +16,10 @@
             "language": "CSS",
             "license": "OFL-1.1",
             "last_commit": "2026-11-04T12:28:25Z",
-            "open_issues": 85,
+            "open_issues": 86,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11746,
+            "stars": 11749,
             "topics": [
               "design",
               "font",
@@ -61,7 +61,7 @@
             "id": 451707403,
             "language": "Python",
             "license": "OFL-1.1",
-            "last_commit": "2026-11-03T00:58:31Z",
+            "last_commit": "2026-11-06T16:12:17Z",
             "open_issues": 24,
             "owner": "googlefonts",
             "repo": "morisawa-biz-ud-gothic",
@@ -171,7 +171,7 @@
             "open_issues": 32,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 65133,
+            "stars": 65138,
             "topics": [
               "font",
               "font-awesome",
@@ -206,7 +206,7 @@
             "open_issues": 7,
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 12971,
+            "stars": 12977,
             "topics": [
               "font",
               "typeface"
@@ -230,7 +230,7 @@
             "open_issues": 5,
             "owner": "yuru7",
             "repo": "HackGen",
-            "stars": 2456,
+            "stars": 2455,
             "topics": [
               "font",
               "hackgen"
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T17:18:15.420Z",
+    "last_updated": "2026-11-06T16:41:30.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "素晴らしい日本語フォントの一覧です",
