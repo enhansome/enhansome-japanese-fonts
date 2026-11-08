@@ -1,12 +1,12 @@
 # Awesome Japanese fonts with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 532,954 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 533,645 | 🐛 103 | 📅 2026-09-02
 素晴らしい日本語フォントの一覧です
 
 ## ゴシック体
 
-* [IBM Plex sans jp](https://github.com/IBM/plex) ⭐ 11,753 | 🐛 86 | 🌐 CSS | 📅 2026-11-04
-* [Noto sans jp](https://github.com/googlefonts/noto-cjk) ⭐ 4,142 | 🐛 77 | 🌐 Python | 📅 2025-12-16
+* [IBM Plex sans jp](https://github.com/IBM/plex) ⭐ 11,761 | 🐛 86 | 🌐 CSS | 📅 2026-11-04
+* [Noto sans jp](https://github.com/googlefonts/noto-cjk) ⭐ 4,144 | 🐛 77 | 🌐 Python | 📅 2025-12-16
 * [Morisawa BIZ UDGothic](https://github.com/googlefonts/morisawa-biz-ud-gothic) ⭐ 675 | 🐛 24 | 🌐 Python | 📅 2026-11-06
 * [Murecho](https://github.com/positype/Murecho-Project) ⭐ 74 | 🐛 8 | 🌐 Makefile | 📅 2021-09-30
 * [M + fonts](https://mplus-fonts.osdn.jp/about2.html)
@@ -32,12 +32,12 @@
 
 ## プログラミング用カスタムフォント
 
-* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) ⭐ 65,148 | 🐛 32 | 🌐 CSS | 📅 2026-10-17
-* [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ⭐ 12,983 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-25
+* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) ⭐ 65,163 | 🐛 32 | 🌐 CSS | 📅 2026-10-17
+* [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ⭐ 12,985 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-25
 * [HackGen](https://github.com/yuru7/HackGen) ⭐ 2,455 | 🐛 5 | 🌐 Shell | 📅 2024-12-29
 * [UDEV Gothic](https://github.com/yuru7/udev-gothic) ⭐ 2,064 | 🐛 2 | 🌐 Python | 📅 2026-02-23
 * [Cica](https://github.com/miiton/Cica) ⭐ 1,410 | 🐛 18 | 🌐 Python | 📅 2026-03-30
-* [PlemolJP](https://github.com/yuru7/PlemolJP) ⭐ 1,406 | 🐛 2 | 🌐 Shell | 📅 2026-08-10
+* [PlemolJP](https://github.com/yuru7/PlemolJP) ⭐ 1,407 | 🐛 2 | 🌐 Shell | 📅 2026-08-10
 * [Firge](https://github.com/yuru7/Firge) ⭐ 296 | 🐛 5 | 🌐 Shell | 📅 2024-04-23
 * [SFMono Square](https://github.com/delphinus/homebrew-sfmono-square) ⭐ 245 | 🐛 3 | 🌐 Python | 📅 2026-11-05
 * [Ricty](https://github.com/kudryavka/Ricty) ⭐ 38 | 🐛 0 | 🌐 Shell | 📅 2023-08-06
@@ -54,4 +54,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
