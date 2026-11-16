@@ -19,7 +19,7 @@
             "open_issues": 86,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11775,
+            "stars": 11779,
             "topics": [
               "design",
               "font",
@@ -44,7 +44,7 @@
             "open_issues": 78,
             "owner": "notofonts",
             "repo": "noto-cjk",
-            "stars": 4155,
+            "stars": 4160,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -113,7 +113,7 @@
             "open_issues": 74,
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9841,
+            "stars": 9843,
             "topics": [
               "cff",
               "cff2",
@@ -168,10 +168,10 @@
             "language": "CSS",
             "license": "NOASSERTION",
             "last_commit": "2026-10-17T22:06:24Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 65217,
+            "stars": 65228,
             "topics": [
               "font",
               "font-awesome",
@@ -206,7 +206,7 @@
             "open_issues": 6,
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 13015,
+            "stars": 13017,
             "topics": [
               "font",
               "typeface"
@@ -230,7 +230,7 @@
             "open_issues": 5,
             "owner": "yuru7",
             "repo": "HackGen",
-            "stars": 2455,
+            "stars": 2456,
             "topics": [
               "font",
               "hackgen"
@@ -254,8 +254,31 @@
             "open_issues": 2,
             "owner": "yuru7",
             "repo": "udev-gothic",
-            "stars": 2068,
+            "stars": 2069,
             "topics": []
+          },
+          "first_seen": "2026-08-28T20:48:51.342Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PlemolJP",
+          "description": "yuru7/PlemolJP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)",
+            "homepage": null,
+            "id": 389310324,
+            "language": "Shell",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-10T05:28:37Z",
+            "open_issues": 3,
+            "owner": "yuru7",
+            "repo": "PlemolJP",
+            "stars": 1411,
+            "topics": [
+              "font"
+            ]
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
         },
@@ -282,29 +305,6 @@
               "macos",
               "programming-font",
               "windows"
-            ]
-          },
-          "first_seen": "2026-08-28T20:48:51.342Z"
-        },
-        {
-          "node_type": "item",
-          "title": "PlemolJP",
-          "description": "yuru7/PlemolJP",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)",
-            "homepage": null,
-            "id": 389310324,
-            "language": "Shell",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-10T05:28:37Z",
-            "open_issues": 3,
-            "owner": "yuru7",
-            "repo": "PlemolJP",
-            "stars": 1410,
-            "topics": [
-              "font"
             ]
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T16:14:48.497Z",
+    "last_updated": "2026-11-16T19:29:48.666Z",
     "original_repository_info": {
       "archived": false,
       "description": "素晴らしい日本語フォントの一覧です",
