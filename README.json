@@ -16,10 +16,10 @@
             "language": "CSS",
             "license": "OFL-1.1",
             "last_commit": "2026-11-19T19:24:32Z",
-            "open_issues": 87,
+            "open_issues": 88,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11786,
+            "stars": 11788,
             "topics": [
               "design",
               "font",
@@ -41,10 +41,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-12-16T05:18:51Z",
-            "open_issues": 78,
+            "open_issues": 79,
             "owner": "notofonts",
             "repo": "noto-cjk",
-            "stars": 4165,
+            "stars": 4167,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -113,7 +113,7 @@
             "open_issues": 74,
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9852,
+            "stars": 9856,
             "topics": [
               "cff",
               "cff2",
@@ -171,7 +171,7 @@
             "open_issues": 35,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 65269,
+            "stars": 65275,
             "topics": [
               "font",
               "font-awesome",
@@ -206,7 +206,7 @@
             "open_issues": 7,
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 13065,
+            "stars": 13066,
             "topics": [
               "font",
               "typeface"
@@ -302,7 +302,7 @@
             "open_issues": 3,
             "owner": "yuru7",
             "repo": "PlemolJP",
-            "stars": 1410,
+            "stars": 1411,
             "topics": [
               "font"
             ]
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:43:27.803Z",
+    "last_updated": "2026-11-22T17:02:33.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "素晴らしい日本語フォントの一覧です",
