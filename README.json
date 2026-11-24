@@ -15,8 +15,8 @@
             "id": 105702631,
             "language": "CSS",
             "license": "OFL-1.1",
-            "last_commit": "2026-11-19T19:24:32Z",
-            "open_issues": 88,
+            "last_commit": "2026-11-24T13:11:29Z",
+            "open_issues": 86,
             "owner": "IBM",
             "repo": "plex",
             "stars": 11789,
@@ -44,7 +44,7 @@
             "open_issues": 79,
             "owner": "notofonts",
             "repo": "noto-cjk",
-            "stars": 4171,
+            "stars": 4173,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -113,7 +113,7 @@
             "open_issues": 74,
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9855,
+            "stars": 9857,
             "topics": [
               "cff",
               "cff2",
@@ -171,7 +171,7 @@
             "open_issues": 35,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 65283,
+            "stars": 65293,
             "topics": [
               "font",
               "font-awesome",
@@ -206,7 +206,7 @@
             "open_issues": 8,
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 13071,
+            "stars": 13073,
             "topics": [
               "font",
               "typeface"
@@ -230,7 +230,7 @@
             "open_issues": 5,
             "owner": "yuru7",
             "repo": "HackGen",
-            "stars": 2458,
+            "stars": 2459,
             "topics": [
               "font",
               "hackgen"
@@ -261,6 +261,29 @@
         },
         {
           "node_type": "item",
+          "title": "PlemolJP",
+          "description": "yuru7/PlemolJP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)",
+            "homepage": null,
+            "id": 389310324,
+            "language": "Shell",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-10T05:28:37Z",
+            "open_issues": 3,
+            "owner": "yuru7",
+            "repo": "PlemolJP",
+            "stars": 1412,
+            "topics": [
+              "font"
+            ]
+          },
+          "first_seen": "2026-08-28T20:48:51.342Z"
+        },
+        {
+          "node_type": "item",
           "title": "Cica",
           "description": "miiton/Cica",
           "children": [],
@@ -282,29 +305,6 @@
               "macos",
               "programming-font",
               "windows"
-            ]
-          },
-          "first_seen": "2026-08-28T20:48:51.342Z"
-        },
-        {
-          "node_type": "item",
-          "title": "PlemolJP",
-          "description": "yuru7/PlemolJP",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)",
-            "homepage": null,
-            "id": 389310324,
-            "language": "Shell",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-10T05:28:37Z",
-            "open_issues": 3,
-            "owner": "yuru7",
-            "repo": "PlemolJP",
-            "stars": 1411,
-            "topics": [
-              "font"
             ]
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T21:11:14.461Z",
+    "last_updated": "2026-11-24T20:05:10.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "素晴らしい日本語フォントの一覧です",
