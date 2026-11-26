@@ -1,11 +1,11 @@
 # Awesome Japanese fonts with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 542,736 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 543,313 | 🐛 103 | 📅 2026-09-02
 素晴らしい日本語フォントの一覧です
 
 ## ゴシック体
 
-* [IBM Plex sans jp](https://github.com/IBM/plex) ⭐ 11,792 | 🐛 85 | 🌐 CSS | 📅 2026-11-24
+* [IBM Plex sans jp](https://github.com/IBM/plex) ⭐ 11,806 | 🐛 85 | 🌐 CSS | 📅 2026-11-24
 * [Noto sans jp](https://github.com/googlefonts/noto-cjk) ⭐ 4,175 | 🐛 79 | 🌐 Python | 📅 2025-12-16
 * [Morisawa BIZ UDGothic](https://github.com/googlefonts/morisawa-biz-ud-gothic) ⭐ 678 | 🐛 24 | 🌐 Python | 📅 2026-11-10
 * [Murecho](https://github.com/positype/Murecho-Project) ⭐ 73 | 🐛 8 | 🌐 Makefile | 📅 2021-09-30
@@ -32,14 +32,14 @@
 
 ## プログラミング用カスタムフォント
 
-* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) ⭐ 65,301 | 🐛 36 | 🌐 CSS | 📅 2026-10-17
-* [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ⭐ 13,074 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-25
-* [HackGen](https://github.com/yuru7/HackGen) ⭐ 2,460 | 🐛 5 | 🌐 Shell | 📅 2024-12-29
+* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) ⭐ 65,312 | 🐛 36 | 🌐 CSS | 📅 2026-10-17
+* [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ⭐ 13,081 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-26
+* [HackGen](https://github.com/yuru7/HackGen) ⭐ 2,461 | 🐛 5 | 🌐 Shell | 📅 2024-12-29
 * [UDEV Gothic](https://github.com/yuru7/udev-gothic) ⭐ 2,071 | 🐛 2 | 🌐 Python | 📅 2026-02-23
-* [PlemolJP](https://github.com/yuru7/PlemolJP) ⭐ 1,413 | 🐛 3 | 🌐 Shell | 📅 2026-08-10
+* [PlemolJP](https://github.com/yuru7/PlemolJP) ⭐ 1,414 | 🐛 3 | 🌐 Shell | 📅 2026-08-10
 * [Cica](https://github.com/miiton/Cica) ⭐ 1,411 | 🐛 18 | 🌐 Python | 📅 2026-03-30
 * [Firge](https://github.com/yuru7/Firge) ⭐ 296 | 🐛 5 | 🌐 Shell | 📅 2024-04-23
-* [SFMono Square](https://github.com/delphinus/homebrew-sfmono-square) ⭐ 246 | 🐛 3 | 🌐 Python | 📅 2026-11-05
+* [SFMono Square](https://github.com/delphinus/homebrew-sfmono-square) ⭐ 246 | 🐛 1 | 🌐 Python | 📅 2026-11-26
 * [Ricty](https://github.com/kudryavka/Ricty) ⭐ 38 | 🐛 0 | 🌐 Shell | 📅 2023-08-06
 
 ## デザイン
@@ -54,4 +54,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
