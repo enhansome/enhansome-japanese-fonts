@@ -16,10 +16,10 @@
             "language": "CSS",
             "license": "OFL-1.1",
             "last_commit": "2026-11-24T13:11:29Z",
-            "open_issues": 85,
+            "open_issues": 86,
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11806,
+            "stars": 11809,
             "topics": [
               "design",
               "font",
@@ -44,7 +44,7 @@
             "open_issues": 79,
             "owner": "notofonts",
             "repo": "noto-cjk",
-            "stars": 4175,
+            "stars": 4180,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -113,7 +113,7 @@
             "open_issues": 74,
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9856,
+            "stars": 9855,
             "topics": [
               "cff",
               "cff2",
@@ -171,7 +171,7 @@
             "open_issues": 36,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 65312,
+            "stars": 65324,
             "topics": [
               "font",
               "font-awesome",
@@ -206,7 +206,7 @@
             "open_issues": 8,
             "owner": "be5invis",
             "repo": "Sarasa-Gothic",
-            "stars": 13081,
+            "stars": 13084,
             "topics": [
               "font",
               "typeface"
@@ -230,7 +230,7 @@
             "open_issues": 5,
             "owner": "yuru7",
             "repo": "HackGen",
-            "stars": 2461,
+            "stars": 2462,
             "topics": [
               "font",
               "hackgen"
@@ -254,7 +254,7 @@
             "open_issues": 2,
             "owner": "yuru7",
             "repo": "udev-gothic",
-            "stars": 2071,
+            "stars": 2073,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.342Z"
@@ -342,7 +342,7 @@
             "id": 125698856,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-26T14:17:10Z",
+            "last_commit": "2026-11-27T15:41:03Z",
             "open_issues": 1,
             "owner": "delphinus",
             "repo": "homebrew-sfmono-square",
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T18:56:47.244Z",
+    "last_updated": "2026-11-27T18:49:30.724Z",
     "original_repository_info": {
       "archived": false,
       "description": "素晴らしい日本語フォントの一覧です",
